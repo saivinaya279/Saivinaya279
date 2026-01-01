@@ -1,114 +1,78 @@
-<h1 align="center">Sai Vinaya Kumbam</h1>
+<!-- Top Anime / Coder Image (GitHub-safe) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="180" />
+</div>
 
-<p align="center">
-  Data Science & Full-Stack Developer <br/>
-  Building data-driven applications with clean design and real-world focus
+<br/>
+
+<!-- LinkedIn Badge -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/kumbam-sai-vinaya-reddy-3422a635a/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+</div>
+
+<br/>
+
+<h1 align="center">hey there 👋</h1>
+
+---
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+I enjoy building data-driven applications and working on problems that combine logic,
+creativity, and real-world impact.<br><br>
+
+I’m particularly interested in data analytics, full-stack development,
+and applying machine learning concepts to practical use cases.<br><br>
+
+I like learning by building projects, experimenting with ideas,
+and continuously improving how I design and implement solutions.
 </p>
 
 ---
 
-## 👩‍💻 Profile
+<h3 align="left">🛠 Languages & Tools</h3>
 
-I am a Data Science undergraduate with hands-on experience in  
-**full-stack development, data analytics, and applied machine learning**.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="flask"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" alt="firebase"/>
+</div>
 
-I enjoy working on complete systems — understanding the problem,  
-designing the solution, and implementing it with clarity and purpose.
+<br/>
 
-My focus is on **practical projects**, **clean code**, and **real usability**.
-
----
-
-## 🧠 Areas of Focus
-
-- Data Analysis & Business Insights  
-- Full-Stack Web Development  
-- Recommendation Systems & Applied ML  
-- User-focused UI with solid backend logic  
-
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-- Python, JavaScript
-
-**Data & Machine Learning**
-- Pandas, NumPy
-- Scikit-learn
-- Exploratory Data Analysis (EDA)
-
-**Web Stack**
-- React
-- HTML, CSS, Tailwind CSS
-- Flask
-- Firebase (Auth & Firestore)
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Database fundamentals (DBMS)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="pandas"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="numpy"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git"/>
+</div>
 
 ---
 
-## 🚀 Selected Projects
+<h3 align="left">📚 Currently Learning</h3>
 
-### 🔹 LinknRide  
-**Smart Logistics & Vehicle Matching Platform**
-
-A role-based logistics platform connecting drivers, vehicle owners,  
-and customers to simplify transport bookings and optimize return trips.
-
-**What I worked on**
-- Role-based authentication and dashboards
-- Real-time database integration using Firestore
-- Responsive UI with React + Tailwind
-- End-to-end flow design for all user types
-
-**Tech:** React, Firebase, Firestore, Tailwind CSS
+- Strengthening data analytics fundamentals  
+- Applying ML concepts on real datasets  
+- Building scalable full-stack applications  
+- Writing cleaner, maintainable code  
 
 ---
 
-### 🔹 Netflix Recommendation System  
-**Personalized Movie Recommendation Engine**
+<h3 align="left">📫 Connect</h3>
 
-A machine learning project focused on building a recommendation system  
-that suggests movies based on user preferences and similarity patterns.
-
-**What I worked on**
-- Data preprocessing and feature extraction
-- Implemented similarity-based recommendation logic
-- Built a content-based filtering model
-- Evaluated recommendations for relevance and accuracy
-
-**Tech:** Python, Pandas, Scikit-learn
-
----
-
-## 📚 Learning & Growth
-
-- Building projects to strengthen fundamentals
-- Improving ML concepts through real datasets
-- Learning how analytics and ML integrate with applications
-- Focusing on clarity, scalability, and maintainability
-
----
-
-## 🧭 Work Philosophy
-
-- Simplicity scales better than complexity  
-- Good structure matters more than fancy code  
-- Real learning happens through building  
-- Code should be readable before it is clever  
-
----
-
-## 📫 Connect
-
-- 📧 Email: kumbamsaivinayareddy@gmail.com 
-- 💼 LinkedIn:https://www.linkedin.com/in/kumbam-sai-vinaya-reddy-3422a635a/
----
+- 📧 Email: kumbamsaivinaya@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kumbam-sai-vinaya-reddy-3422a635a/  
 
 <p align="center">
-  <i>Learning by building. Improving with every project.</i>
+  <i>Open to internships, learning opportunities, and meaningful collaborations.</i>
 </p>
