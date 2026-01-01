@@ -1,9 +1,9 @@
 <!-- MASSIVE, CLEAN HEADER (Recruiter Safe) -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:91EAE4&height=220&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=36&fontColor=ffffff&animation=fadeIn" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=36&fontColor=ffffff" />
 </p>
+
+
 
 <!-- SUBTLE TYPING ANIMATION (ONLY ONE ANIMATION) -->
 <p align="center">
