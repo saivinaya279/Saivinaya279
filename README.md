@@ -88,10 +88,11 @@ I am passionate about building **data-driven applications** and solving problems
 
 <p align="center">
   <img 
-    src="https://streak-stats.vercel.app?user=saivinaya279&theme=transparent&hide_border=true"
+    src="https://streak-stats.vercel.app?user=saivinaya279&theme=transparent&hide_border=true&cache_seconds=21600"
     height="170"
   />
 </p>
+
 
 ---
 
