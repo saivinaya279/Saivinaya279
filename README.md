@@ -5,34 +5,30 @@
   />
 </p>
 
-
-
-
-<!-- SUBTLE TYPING ANIMATION (ONLY ONE ANIMATION) -->
+<!-- SUBTLE TYPING ANIMATION -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1400&color=2563EB&center=true&vCenter=true&width=720&lines=Data+Analytics+%7C+Full+Stack;Turning+Data+into+Insights;Learning+by+Building+Real+Things" 
   />
 </p>
 
-<!-- HERO ILLUSTRATION (STATIC, SAFE) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="180"/>
-</div>
-
-<br/>
+<!-- HERO ILLUSTRATION -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+    height="180"
+  />
+</p>
 
 <!-- LINKEDIN -->
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/kumbam-sai-vinaya-reddy-3422a635a/">
     <img 
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" 
       height="28"
     />
   </a>
-</div>
-
-<br/>
+</p>
 
 <p align="center">
   <i>Focused on learning, building, and growing through meaningful projects.</i>
@@ -42,14 +38,7 @@
 
 ## 👩‍💻 About Me
 
-I enjoy building **data-driven applications** and working on problems that combine  
-**logic, creativity, and real-world impact**.
-
-I’m particularly interested in **data analytics, full-stack development**, and  
-applying **machine learning concepts** to practical use cases.
-
-I like learning by building projects, experimenting with ideas,  
-and continuously improving how I design and implement solutions.
+I am passionate about building **data-driven applications** and solving problems that combine **analytical thinking, clean design, and real-world impact**. My interests center around **data analytics** and **full-stack development**, where I enjoy transforming data into insights and developing scalable, user-focused solutions. I am also keen on applying **machine learning concepts** to practical scenarios. I believe in **learning by building**, continuously improving my problem-solving skills, and writing **clear, maintainable code** while growing through consistent hands-on experience.
 
 ---
 
@@ -60,10 +49,11 @@ and continuously improving how I design and implement solutions.
 </p>
 
 ---
-<br/>
+
+
 ## 🛠 Languages & Tools
 
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
   <img width="16"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
@@ -73,17 +63,15 @@ and continuously improving how I design and implement solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42"/>
   <img width="16"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42"/>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42"/>
   <img width="16"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/>
   <img width="16"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
-</div>
+</p>
 
 ---
 
@@ -94,9 +82,7 @@ and continuously improving how I design and implement solutions.
 - Building scalable full-stack applications  
 - Writing cleaner, maintainable code  
 
-
 ---
-
 
 ## 📊 GitHub Activity
 
@@ -107,6 +93,7 @@ and continuously improving how I design and implement solutions.
   />
 </p>
 
+---
 
 ## 📫 Connect
 
