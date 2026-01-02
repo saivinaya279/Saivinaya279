@@ -1,7 +1,10 @@
-<!-- MASSIVE, CLEAN HEADER (Recruiter Safe) -->
+<!-- CLEAN COMPACT HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=36&fontColor=ffffff" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&fontColor=ffffff&animation=fadeIn" 
+  />
 </p>
+
 
 
 
@@ -50,15 +53,14 @@ and continuously improving how I design and implement solutions.
 
 ---
 
-## ✨ What I Care About
-
-- Solving real problems with data  
-- Writing clean, understandable code  
-- Learning deeply instead of rushing trends  
-- Growing through hands-on experience  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Interest-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Building-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=flat-square"/>
+</p>
 
 ---
-
+<br/>
 ## 🛠 Languages & Tools
 
 <div align="center">
@@ -92,7 +94,19 @@ and continuously improving how I design and implement solutions.
 - Building scalable full-stack applications  
 - Writing cleaner, maintainable code  
 
+
 ---
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://streak-stats.vercel.app?user=saivinaya279&theme=transparent&hide_border=true"
+    height="170"
+  />
+</p>
+
 
 ## 📫 Connect
 
