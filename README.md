@@ -93,6 +93,16 @@ I am passionate about building **data-driven applications** and solving problems
   />
 </p>
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/SAIVINAYA?theme=dark&font=Inter&ext=heatmap" 
+  />
+</p>
+
+
+
 
 ---
 
