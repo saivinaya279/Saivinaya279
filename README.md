@@ -71,6 +71,12 @@ I am passionate about building **data-driven applications** and solving problems
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/>
   <img width="16"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+  <p align="center">
+  <sub>
+    Python • JavaScript • React • Flask • Firebase • MySQL • Pandas • NumPy • Git
+  </sub>
+</p>
+
 </p>
 
 ---
@@ -80,7 +86,7 @@ I am passionate about building **data-driven applications** and solving problems
 - Strengthening data analytics fundamentals  
 - Applying ML concepts on real datasets  
 - Building scalable full-stack applications  
-- Writing cleaner, maintainable code  
+- Writing cleaner, maintainable code
 
 ---
 
